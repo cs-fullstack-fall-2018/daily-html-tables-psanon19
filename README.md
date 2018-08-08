@@ -9,3 +9,8 @@
 3. Inside each row there are a number of cells represented by the ```<td>``` element (True or False?) *YOUR ANSWER->* 
 
 4. You can make cells of a table span more than one column using the ```colspan``` attribute, but cells cannot span more than one row in the table (True or False?) *YOUR ANSWER->*
+
+/*
+
+	No Answers :-(
+*/
